@@ -1,0 +1,65 @@
+/*
+             Master stylesheet
+============================================
+    Template Name : Tinyone
+    Author: Rahman Kader
+	Author Url : https://Rahmankader.com
+	Descriptions : PSD TO HTML Practise
+	Version: 1.0.0
+	Tag: blog
+
+*/
+
+
+/*
+			Table Of Contents
+============================================			
+	1. Typrography
+	2. Header
+	3
+	4
+	5
+	
+	font-family: 'PT Sans', sans-serif;
+
+
+*/
+
+/*==========================================
+			Typrography
+============================================*/
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+header, #hero, #body, #bar,footer{
+	background-color: #ffaec9;
+	padding: 50px 0;
+	margin-bottom: 30px;
+}
+.content{
+	background-color: #99d9ea;
+	border: 5px solid #22b14c;
+	padding: 20px;
+	margin: 5px 0;
+}
+.body-content{
+	padding: 60px 20px;
+}
+.nested-content{
+	background-color: #b5e61d;
+}
+
+
+
+
+
+
+
+
+
+
+
